@@ -1,0 +1,138 @@
+{
+  "uid" : "6cc237a907f5cb2b",
+  "name" : "SignUp to the app. -- @1.6 ",
+  "fullName" : "Verify working of SignIN API with negative Scenario: SignUp to the app.",
+  "historyId" : "0f3927075ca6b15cde88b780ab7ddaf2",
+  "time" : {
+    "start" : 1650627168202,
+    "stop" : 1650627169914,
+    "duration" : 1712
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given SignUP API to register",
+      "time" : {
+        "start" : 1650627168204,
+        "stop" : 1650627168208,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When SignUP is performed on different roku",
+      "time" : {
+        "start" : 1650627168209,
+        "stop" : 1650627169912,
+        "duration" : 1703
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then registeration is success and status code is 201",
+      "time" : {
+        "start" : 1650627169913,
+        "stop" : 1650627169914,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And a unique token against each signUP is created",
+      "time" : {
+        "start" : 1650627169914,
+        "stop" : 1650627169914,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "negativelogin"
+  }, {
+    "name" : "tag",
+    "value" : "negativesignUP"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "feature",
+    "value" : "Verify working of SignIN API with negative Scenario"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "platform",
+    "value" : "roku"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "87e91b9bfaa1723e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650626653887,
+        "stop" : 1650626655246,
+        "duration" : 1359
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "negativesignUP", "negativelogin", "regression" ]
+  },
+  "source" : "6cc237a907f5cb2b.json",
+  "parameterValues" : [ "roku" ]
+}

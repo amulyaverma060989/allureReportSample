@@ -1,0 +1,152 @@
+{
+  "uid" : "58db2b1dccce2fcb",
+  "name" : "Test POST stream API -- @1.5 ",
+  "fullName" : "To test streams APIs: Test POST stream API",
+  "historyId" : "9a373a48d7c15533b4d129a0e9142b8b",
+  "time" : {
+    "start" : 1650626830804,
+    "stop" : 1650626837097,
+    "duration" : 6293
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given POST stream API",
+      "time" : {
+        "start" : 1650626830805,
+        "stop" : 1650626830807,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When header with token samsung,61171 and 60 is passed",
+      "time" : {
+        "start" : 1650626830807,
+        "stop" : 1650626836016,
+        "duration" : 5209
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then stream is successfully played and status Code is 200",
+      "time" : {
+        "start" : 1650626836017,
+        "stop" : 1650626836017,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And again samsung wise 35826 is passed",
+      "time" : {
+        "start" : 1650626836018,
+        "stop" : 1650626837094,
+        "duration" : 1076
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And stream is successfully played and again status Code is 200",
+      "time" : {
+        "start" : 1650626837096,
+        "stop" : 1650626837096,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "postStreamAPI"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "feature",
+    "value" : "To test streams APIs"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "appID",
+    "value" : "60"
+  }, {
+    "name" : "cid1",
+    "value" : "61171"
+  }, {
+    "name" : "cid2",
+    "value" : "35826"
+  }, {
+    "name" : "platform",
+    "value" : "samsung"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "postStreamAPI", "regression", "smoke" ]
+  },
+  "source" : "58db2b1dccce2fcb.json",
+  "parameterValues" : [ "60", "61171", "35826", "samsung" ]
+}

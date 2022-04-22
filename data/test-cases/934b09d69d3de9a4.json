@@ -1,0 +1,128 @@
+{
+  "uid" : "934b09d69d3de9a4",
+  "name" : "Successful Signup on giving authentic EmailID and Password -- @1.1 ",
+  "fullName" : "To test working of save items APIs from end to end prespective: Successful Signup on giving authentic EmailID and Password",
+  "historyId" : "b56e6cbd5cf2e8e5208bf2c018d2806f",
+  "time" : {
+    "start" : 1650626583527,
+    "stop" : 1650626586121,
+    "duration" : 2594
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given SignUp API as POST Request to test saved items",
+      "time" : {
+        "start" : 1650626583527,
+        "stop" : 1650626583528,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When EmailID, Password, appID and ios are provided to test saved items",
+      "time" : {
+        "start" : 1650626583528,
+        "stop" : 1650626586118,
+        "duration" : 2590
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then Status Code is 201, to test saved items",
+      "time" : {
+        "start" : 1650626586119,
+        "stop" : 1650626586120,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And Unique token is generated to test saved items",
+      "time" : {
+        "start" : 1650626586120,
+        "stop" : 1650626586120,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "savedSignUP"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "feature",
+    "value" : "To test working of save items APIs from end to end prespective"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "platform",
+    "value" : "ios"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "savedSignUP", "regression", "smoke" ]
+  },
+  "source" : "934b09d69d3de9a4.json",
+  "parameterValues" : [ "ios" ]
+}

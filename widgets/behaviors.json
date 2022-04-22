@@ -1,0 +1,114 @@
+{
+  "total" : 11,
+  "items" : [ {
+    "uid" : "5f8b4c9c047954b173dff311e9bfc23b",
+    "name" : "To test working of save items APIs from end to end prespective",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 24,
+      "unknown" : 0,
+      "total" : 24
+    }
+  }, {
+    "uid" : "fbd11082363ca6c9c4c36d49dafb13bb",
+    "name" : "Verify different Scenarios for Sign Up API on Production enviornment.",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 18
+    }
+  }, {
+    "uid" : "b59316dec17fef7c53e18828a3ca96e8",
+    "name" : "To test streams APIs",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 15
+    }
+  }, {
+    "uid" : "4f700f3d6dfa932e13ede4832b7561f3",
+    "name" : "Verify end to end working of Sign IN and Log Out API",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 13
+    }
+  }, {
+    "uid" : "9f81d956a22350c4e0084e8848f73f32",
+    "name" : "Verify working of SignIN API with negative Scenario",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "44cc297cd2aadaabad478d013341e672",
+    "name" : "To test working of app policy API",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "d5f74ccf93a350ada535d4eaadf6cbe9",
+    "name" : "Verify working of Reset Password API",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "baac9116abe410c33f5d9cf874b8805c",
+    "name" : "To test Anonymous user Stream API",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "b386b1b275121c21c2bdc2efa46e2944",
+    "name" : "To test firebase push notification API only for iOS and Android",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "c42e081c4394c3900dd24172be4ff251",
+    "name" : "To test app usage tracking API",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

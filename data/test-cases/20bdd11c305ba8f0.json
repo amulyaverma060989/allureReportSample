@@ -1,0 +1,123 @@
+{
+  "uid" : "20bdd11c305ba8f0",
+  "name" : "Reset the password of users who have signedIN/SignedUP -- @1.5 ",
+  "fullName" : "Verify working of Reset Password API: Reset the password of users who have signedIN/SignedUP",
+  "historyId" : "a62eb64acd575c36dc8ba07c8e34b868",
+  "time" : {
+    "start" : 1650627258455,
+    "stop" : 1650627260359,
+    "duration" : 1904
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Reset password API",
+      "time" : {
+        "start" : 1650627258457,
+        "stop" : 1650627258457,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When Reset password is called with email IDs on different samsung",
+      "time" : {
+        "start" : 1650627258458,
+        "stop" : 1650627260357,
+        "duration" : 1899
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then reset password API status code is 201",
+      "time" : {
+        "start" : 1650627260358,
+        "stop" : 1650627260358,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "resetpassword"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "feature",
+    "value" : "Verify working of Reset Password API"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "platform",
+    "value" : "samsung"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b7d44fb405ced77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650626732525,
+        "stop" : 1650626734501,
+        "duration" : 1976
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "regression", "smoke", "resetpassword" ]
+  },
+  "source" : "20bdd11c305ba8f0.json",
+  "parameterValues" : [ "samsung" ]
+}

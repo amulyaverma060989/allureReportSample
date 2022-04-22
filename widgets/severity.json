@@ -1,0 +1,1071 @@
+[ {
+  "uid" : "f0ef084216b5d111",
+  "name" : "Using same Email ID to SignUp -- @1.4 ",
+  "time" : {
+    "start" : 1650627228088,
+    "stop" : 1650627229836,
+    "duration" : 1748
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6887e7426ff0f464",
+  "name" : "To test FireBase push notification API -- @1.1 ",
+  "time" : {
+    "start" : 1650627391429,
+    "stop" : 1650627393942,
+    "duration" : 2513
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96b9392ffcd9b2c2",
+  "name" : "To get the policy by setting no_policy as False -- @1.1 ",
+  "time" : {
+    "start" : 1650627396416,
+    "stop" : 1650627397821,
+    "duration" : 1405
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31ac0c1738ee972a",
+  "name" : "SignUp to the app to test streams API -- @1.4 ",
+  "time" : {
+    "start" : 1650627421107,
+    "stop" : 1650627427015,
+    "duration" : 5908
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2d6838a7385e26b",
+  "name" : "Delete Saved items -- @1.3 ",
+  "time" : {
+    "start" : 1650627131814,
+    "stop" : 1650627138916,
+    "duration" : 7102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4266cfc63ff781a0",
+  "name" : "Get Saved items list for the user -- @1.6 ",
+  "time" : {
+    "start" : 1650627121271,
+    "stop" : 1650627124347,
+    "duration" : 3076
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e47ef3dc4e077332",
+  "name" : "Test POST stream API -- @1.4 ",
+  "time" : {
+    "start" : 1650627457612,
+    "stop" : 1650627466181,
+    "duration" : 8569
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9285327b7b032d3",
+  "name" : "Non-existential appID used to SignUp -- @1.1 ",
+  "time" : {
+    "start" : 1650627235615,
+    "stop" : 1650627237012,
+    "duration" : 1397
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a15073273dd4b766",
+  "name" : "Save items with Save items API after SignUp -- @1.6 ",
+  "time" : {
+    "start" : 1650627111505,
+    "stop" : 1650627114206,
+    "duration" : 2701
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "632b7ee07486e6e5",
+  "name" : "Test POST stream API -- @1.1 ",
+  "time" : {
+    "start" : 1650627433936,
+    "stop" : 1650627438055,
+    "duration" : 4119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74d2d682ffd2d5db",
+  "name" : "Successful Signup on giving authentic EmailID and Password -- @1.4 ",
+  "time" : {
+    "start" : 1650627215612,
+    "stop" : 1650627217091,
+    "duration" : 1479
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a2bafbc5386b7c2",
+  "name" : "Get Saved items list for the user -- @1.3 ",
+  "time" : {
+    "start" : 1650627116777,
+    "stop" : 1650627118383,
+    "duration" : 1606
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2945c136f97646b9",
+  "name" : "Test POST stream API -- @1.2 ",
+  "time" : {
+    "start" : 1650627438058,
+    "stop" : 1650627442164,
+    "duration" : 4106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51d4cf67b085e40f",
+  "name" : "SignIN into the app with correct email but different password -- @1.6 ",
+  "time" : {
+    "start" : 1650627177657,
+    "stop" : 1650627179441,
+    "duration" : 1784
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb7f3759852e8577",
+  "name" : "Successful Signup on giving authentic EmailID and Password -- @1.1 ",
+  "time" : {
+    "start" : 1650627077870,
+    "stop" : 1650627079508,
+    "duration" : 1638
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d835ae2cd2cb6c4",
+  "name" : "SignUp to the app to test streams API -- @1.6 ",
+  "time" : {
+    "start" : 1650627429630,
+    "stop" : 1650627433934,
+    "duration" : 4304
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc3fbed6b52ecec5",
+  "name" : "Delete Saved items -- @1.6 ",
+  "time" : {
+    "start" : 1650627147560,
+    "stop" : 1650627153900,
+    "duration" : 6340
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "685075f4d8c8a408",
+  "name" : "Successful Signup on giving authentic EmailID and Password -- @1.1 ",
+  "time" : {
+    "start" : 1650627209517,
+    "stop" : 1650627211274,
+    "duration" : 1757
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "300596b0db5700b",
+  "name" : "Using same Email ID to SignUp -- @1.6 ",
+  "time" : {
+    "start" : 1650627232255,
+    "stop" : 1650627235614,
+    "duration" : 3359
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "306a6743a8b7e529",
+  "name" : "Test GET Stream API -- @1.2 ",
+  "time" : {
+    "start" : 1650627495860,
+    "stop" : 1650627496898,
+    "duration" : 1038
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d121163ad63036",
+  "name" : "SignUp to the app to test streams API -- @1.5 ",
+  "time" : {
+    "start" : 1650627427017,
+    "stop" : 1650627429628,
+    "duration" : 2611
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3bbad8d049527e8",
+  "name" : "Non-existential appID used to SignUp -- @1.5 ",
+  "time" : {
+    "start" : 1650627242461,
+    "stop" : 1650627243851,
+    "duration" : 1390
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d955063c531d7d07",
+  "name" : "SignIN into the app with correct email but different password -- @1.3 ",
+  "time" : {
+    "start" : 1650627172599,
+    "stop" : 1650627174070,
+    "duration" : 1471
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de540096ba73ac1",
+  "name" : "SignIN into the app using the email used during SignUp -- @1.2 ",
+  "time" : {
+    "start" : 1650627192891,
+    "stop" : 1650627194755,
+    "duration" : 1864
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "136650d2708d902",
+  "name" : "SignUP on providing correct Username and password -- @1.4 ",
+  "time" : {
+    "start" : 1650627187189,
+    "stop" : 1650627188558,
+    "duration" : 1369
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c853d41e588de992",
+  "name" : "Get Saved items list for the user -- @1.1 ",
+  "time" : {
+    "start" : 1650627114208,
+    "stop" : 1650627115373,
+    "duration" : 1165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79fdd9ba0fdee9c9",
+  "name" : "Anonymous user streaming API -- @1.3 ",
+  "time" : {
+    "start" : 1650627355594,
+    "stop" : 1650627360459,
+    "duration" : 4865
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8140f4e68525791",
+  "name" : "Using same Email ID to SignUp -- @1.2 ",
+  "time" : {
+    "start" : 1650627223049,
+    "stop" : 1650627226166,
+    "duration" : 3117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ce3f90111bea201",
+  "name" : "Non-existential appID used to SignUp -- @1.4 ",
+  "time" : {
+    "start" : 1650627240653,
+    "stop" : 1650627242460,
+    "duration" : 1807
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe202572272ae20f",
+  "name" : "Get Saved items list for the user -- @1.5 ",
+  "time" : {
+    "start" : 1650627120056,
+    "stop" : 1650627121270,
+    "duration" : 1214
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21894652dd55b58a",
+  "name" : "SignIN into the app with correct email but different password -- @1.4 ",
+  "time" : {
+    "start" : 1650627174071,
+    "stop" : 1650627175783,
+    "duration" : 1712
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb38cbd8103924c1",
+  "name" : "Test POST stream API -- @1.3 ",
+  "time" : {
+    "start" : 1650627442166,
+    "stop" : 1650627457609,
+    "duration" : 15443
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d057d00df073c055",
+  "name" : "SignIN into the app using the email used during SignUp -- @1.4 ",
+  "time" : {
+    "start" : 1650627196287,
+    "stop" : 1650627197995,
+    "duration" : 1708
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6a440b7b92a9828",
+  "name" : "SignIN into the app with correct email but different password -- @1.2 ",
+  "time" : {
+    "start" : 1650627171197,
+    "stop" : 1650627172598,
+    "duration" : 1401
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f789b6153ee35cb",
+  "name" : "To get the policy by setting no_policy as True -- @1.2 ",
+  "time" : {
+    "start" : 1650627402769,
+    "stop" : 1650627405839,
+    "duration" : 3070
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8bf5fdcf4aac11c",
+  "name" : "Anonymous user streaming API -- @1.2 ",
+  "time" : {
+    "start" : 1650627291692,
+    "stop" : 1650627355592,
+    "duration" : 63900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ea50af1f0dd1c60",
+  "name" : "Test POST stream API -- @1.5 ",
+  "time" : {
+    "start" : 1650627466183,
+    "stop" : 1650627474191,
+    "duration" : 8008
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d978e312e6646a0",
+  "name" : "Successful Signup on giving authentic EmailID and Password -- @1.4 ",
+  "time" : {
+    "start" : 1650627084400,
+    "stop" : 1650627085809,
+    "duration" : 1409
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "179a1638f05d5c0a",
+  "name" : "Successful Signup on giving authentic EmailID and Password -- @1.2 ",
+  "time" : {
+    "start" : 1650627079510,
+    "stop" : 1650627081556,
+    "duration" : 2046
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6cc237a907f5cb2b",
+  "name" : "SignUp to the app. -- @1.6 ",
+  "time" : {
+    "start" : 1650627168202,
+    "stop" : 1650627169914,
+    "duration" : 1712
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b0f6e55b5244abd",
+  "name" : "Get Saved items list for the user -- @1.2 ",
+  "time" : {
+    "start" : 1650627115376,
+    "stop" : 1650627116776,
+    "duration" : 1400
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d20036c727189e9",
+  "name" : "Reset the password of users who have signedIN/SignedUP -- @1.6 ",
+  "time" : {
+    "start" : 1650627260360,
+    "stop" : 1650627262096,
+    "duration" : 1736
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b26ea3910428b65f",
+  "name" : "Delete Saved items -- @1.4 ",
+  "time" : {
+    "start" : 1650627138919,
+    "stop" : 1650627142502,
+    "duration" : 3583
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3740e0866c40721f",
+  "name" : "Anonymous user streaming API -- @1.5 ",
+  "time" : {
+    "start" : 1650627365576,
+    "stop" : 1650627368851,
+    "duration" : 3275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc569df94dfc691f",
+  "name" : "Delete Saved items -- @1.5 ",
+  "time" : {
+    "start" : 1650627142505,
+    "stop" : 1650627147558,
+    "duration" : 5053
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "569032ae309cc244",
+  "name" : "Successful Signup on giving authentic EmailID and Password -- @1.3 ",
+  "time" : {
+    "start" : 1650627081557,
+    "stop" : 1650627084399,
+    "duration" : 2842
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c410291597fe0b5",
+  "name" : "SignIN into the app using the email used during SignUp -- @1.6 ",
+  "time" : {
+    "start" : 1650627199382,
+    "stop" : 1650627200729,
+    "duration" : 1347
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "187e93b329559019",
+  "name" : "SignUp to the app to test streams API -- @1.3 ",
+  "time" : {
+    "start" : 1650627417932,
+    "stop" : 1650627421106,
+    "duration" : 3174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "362521bb94dd7fa6",
+  "name" : "Using same Email ID to SignUp -- @1.3 ",
+  "time" : {
+    "start" : 1650627226166,
+    "stop" : 1650627228087,
+    "duration" : 1921
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27224c555b4f6e11",
+  "name" : "Delete Saved items -- @1.2 ",
+  "time" : {
+    "start" : 1650627126539,
+    "stop" : 1650627131811,
+    "duration" : 5272
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33f0e4cc4e7f28e1",
+  "name" : "Test GET Stream API -- @1.1 ",
+  "time" : {
+    "start" : 1650627492617,
+    "stop" : 1650627495857,
+    "duration" : 3240
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98f616f6a3db966",
+  "name" : "Successful Signup on giving authentic EmailID and Password -- @1.6 ",
+  "time" : {
+    "start" : 1650627088681,
+    "stop" : 1650627091634,
+    "duration" : 2953
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c06e9877f6201060",
+  "name" : "Save items with Save items API after SignUp -- @1.3 ",
+  "time" : {
+    "start" : 1650627097723,
+    "stop" : 1650627100759,
+    "duration" : 3036
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d29707df90f66228",
+  "name" : "SignIN into the app with correct email but different password -- @1.5 ",
+  "time" : {
+    "start" : 1650627175785,
+    "stop" : 1650627177655,
+    "duration" : 1870
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "773d839401abcb98",
+  "name" : "SignUp to the app. -- @1.4 ",
+  "time" : {
+    "start" : 1650627162012,
+    "stop" : 1650627166875,
+    "duration" : 4863
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "afb6816b6eeccc65",
+  "name" : "SignUp to the app. -- @1.2 ",
+  "time" : {
+    "start" : 1650627155757,
+    "stop" : 1650627159833,
+    "duration" : 4076
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b964dc3152a472d",
+  "name" : "To get the policy by setting no_policy as True -- @1.3 ",
+  "time" : {
+    "start" : 1650627405840,
+    "stop" : 1650627407895,
+    "duration" : 2055
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a990131332e40ac",
+  "name" : "SignUp to the app. -- @1.1 ",
+  "time" : {
+    "start" : 1650627153911,
+    "stop" : 1650627155755,
+    "duration" : 1844
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9a489d11649de36",
+  "name" : "SignIN into the app using the email used during SignUp -- @1.1 ",
+  "time" : {
+    "start" : 1650627191484,
+    "stop" : 1650627192890,
+    "duration" : 1406
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80e2032d26a01e86",
+  "name" : "Non-existential appID used to SignUp -- @1.3 ",
+  "time" : {
+    "start" : 1650627239260,
+    "stop" : 1650627240652,
+    "duration" : 1392
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dda9acd17e51d0e8",
+  "name" : "Using same Email ID to SignUp -- @1.1 ",
+  "time" : {
+    "start" : 1650627220922,
+    "stop" : 1650627223047,
+    "duration" : 2125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8074e9706a47be2",
+  "name" : "SignUP on providing correct Username and password -- @1.2 ",
+  "time" : {
+    "start" : 1650627182554,
+    "stop" : 1650627184348,
+    "duration" : 1794
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5805986d4f93fce",
+  "name" : "Successful Signup on giving authentic EmailID and Password -- @1.5 ",
+  "time" : {
+    "start" : 1650627217092,
+    "stop" : 1650627218953,
+    "duration" : 1861
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "982b083db65ed7b",
+  "name" : "Get Saved items list for the user -- @1.4 ",
+  "time" : {
+    "start" : 1650627118384,
+    "stop" : 1650627120055,
+    "duration" : 1671
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51eebdcbad9de4ab",
+  "name" : "Non-existential appID used to SignUp -- @1.6 ",
+  "time" : {
+    "start" : 1650627243853,
+    "stop" : 1650627246636,
+    "duration" : 2783
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d28616d4c5dfd5ff",
+  "name" : "Anonymous user streaming API -- @1.1 ",
+  "time" : {
+    "start" : 1650627262101,
+    "stop" : 1650627291691,
+    "duration" : 29590
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3dc191e090961cc",
+  "name" : "SignUp to the app to test streams API -- @1.1 ",
+  "time" : {
+    "start" : 1650627409548,
+    "stop" : 1650627413111,
+    "duration" : 3563
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "317a6538729e6937",
+  "name" : "SignUP on providing correct Username and password -- @1.1 ",
+  "time" : {
+    "start" : 1650627179449,
+    "stop" : 1650627182552,
+    "duration" : 3103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20bdd11c305ba8f0",
+  "name" : "Reset the password of users who have signedIN/SignedUP -- @1.5 ",
+  "time" : {
+    "start" : 1650627258455,
+    "stop" : 1650627260359,
+    "duration" : 1904
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a253c5005aa3419e",
+  "name" : "Reset the password of users who have signedIN/SignedUP -- @1.4 ",
+  "time" : {
+    "start" : 1650627255445,
+    "stop" : 1650627258454,
+    "duration" : 3009
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31053f0c32074b38",
+  "name" : "SignIN into the app with correct email but different password -- @1.1 ",
+  "time" : {
+    "start" : 1650627169916,
+    "stop" : 1650627171196,
+    "duration" : 1280
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9358b581adc78236",
+  "name" : "To check policy API response for non-existent app -- @1.1 ",
+  "time" : {
+    "start" : 1650627407898,
+    "stop" : 1650627409536,
+    "duration" : 1638
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df2f429fcb786bfa",
+  "name" : "Test POST stream API -- @1.6 ",
+  "time" : {
+    "start" : 1650627474194,
+    "stop" : 1650627492614,
+    "duration" : 18420
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd232087df245ae4",
+  "name" : "To test FireBase push notification API -- @1.2 ",
+  "time" : {
+    "start" : 1650627393944,
+    "stop" : 1650627396407,
+    "duration" : 2463
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46ecc86452a40e2b",
+  "name" : "Save items with Save items API after SignUp -- @1.5 ",
+  "time" : {
+    "start" : 1650627108951,
+    "stop" : 1650627111503,
+    "duration" : 2552
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ae8ed46f96e6267",
+  "name" : "To SignUp into the app to generate a new token -- @1.1 ",
+  "time" : {
+    "start" : 1650627382005,
+    "stop" : 1650627388176,
+    "duration" : 6171
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ff65791c306fbdc",
+  "name" : "To test app usage tracking -- @1.1 ",
+  "time" : {
+    "start" : 1650627373136,
+    "stop" : 1650627381999,
+    "duration" : 8863
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aeb1d1cd547296b5",
+  "name" : "To get the policy by setting no_policy as False -- @1.3 ",
+  "time" : {
+    "start" : 1650627399598,
+    "stop" : 1650627401354,
+    "duration" : 1756
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3cf5a45f0d66605",
+  "name" : "SignUp to the app. -- @1.3 ",
+  "time" : {
+    "start" : 1650627159836,
+    "stop" : 1650627162011,
+    "duration" : 2175
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db6ea86d17229647",
+  "name" : "SignUp to the app. -- @1.5 ",
+  "time" : {
+    "start" : 1650627166877,
+    "stop" : 1650627168200,
+    "duration" : 1323
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ade001c557e3849",
+  "name" : "SignUP on providing correct Username and password -- @1.5 ",
+  "time" : {
+    "start" : 1650627188560,
+    "stop" : 1650627189943,
+    "duration" : 1383
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b35b14e2c097579b",
+  "name" : "To get the policy by setting no_policy as False -- @1.2 ",
+  "time" : {
+    "start" : 1650627397823,
+    "stop" : 1650627399597,
+    "duration" : 1774
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7f7d4d715c7c2a9",
+  "name" : "Reset the password of users who have signedIN/SignedUP -- @1.1 ",
+  "time" : {
+    "start" : 1650627246639,
+    "stop" : 1650627248406,
+    "duration" : 1767
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8137c52bb3aec67",
+  "name" : "Save items with Save items API after SignUp -- @1.2 ",
+  "time" : {
+    "start" : 1650627094850,
+    "stop" : 1650627097721,
+    "duration" : 2871
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd59f149e22efdd2",
+  "name" : "Anonymous user streaming API -- @1.4 ",
+  "time" : {
+    "start" : 1650627360461,
+    "stop" : 1650627365573,
+    "duration" : 5112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4e6f08c2ab8827e",
+  "name" : "Reset the password of users who have signedIN/SignedUP -- @1.3 ",
+  "time" : {
+    "start" : 1650627249971,
+    "stop" : 1650627255443,
+    "duration" : 5472
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd60b711d7d1c909",
+  "name" : "Test GET Stream API -- @1.3 ",
+  "time" : {
+    "start" : 1650627496900,
+    "stop" : 1650627498315,
+    "duration" : 1415
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc76f5a2479a6b9",
+  "name" : "Successful Signup on giving authentic EmailID and Password -- @1.2 ",
+  "time" : {
+    "start" : 1650627211276,
+    "stop" : 1650627212739,
+    "duration" : 1463
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11845a76be2552dd",
+  "name" : "Successful Signup on giving authentic EmailID and Password -- @1.3 ",
+  "time" : {
+    "start" : 1650627212741,
+    "stop" : 1650627215611,
+    "duration" : 2870
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b5cf6268e94e06a",
+  "name" : "Save items with Save items API after SignUp -- @1.1 ",
+  "time" : {
+    "start" : 1650627091636,
+    "stop" : 1650627094848,
+    "duration" : 3212
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79e98abbda5fc960",
+  "name" : "Delete Saved items -- @1.1 ",
+  "time" : {
+    "start" : 1650627124349,
+    "stop" : 1650627126536,
+    "duration" : 2187
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec230aabf8692b18",
+  "name" : "Non-existential appID used to SignUp -- @1.2 ",
+  "time" : {
+    "start" : 1650627237013,
+    "stop" : 1650627239258,
+    "duration" : 2245
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8590a710069b1e49",
+  "name" : "Anonymous user streaming API -- @1.6 ",
+  "time" : {
+    "start" : 1650627368854,
+    "stop" : 1650627373130,
+    "duration" : 4276
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0bd3e80f3006ea5",
+  "name" : "SignIN into the app using the email used during SignUp -- @1.5 ",
+  "time" : {
+    "start" : 1650627197996,
+    "stop" : 1650627199382,
+    "duration" : 1386
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa28ed731874933e",
+  "name" : "Get tool box devices",
+  "time" : {
+    "start" : 1650627498317,
+    "stop" : 1650627500917,
+    "duration" : 2600
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "901908d6b7b7c64d",
+  "name" : "Successful Signup on giving authentic EmailID and Password -- @1.5 ",
+  "time" : {
+    "start" : 1650627085810,
+    "stop" : 1650627088680,
+    "duration" : 2870
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5529087025683f41",
+  "name" : "Using same Email ID to SignUp -- @1.5 ",
+  "time" : {
+    "start" : 1650627229837,
+    "stop" : 1650627232253,
+    "duration" : 2416
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6df0a69f3a9c62f1",
+  "name" : "SignUp to the app to test streams API -- @1.2 ",
+  "time" : {
+    "start" : 1650627413113,
+    "stop" : 1650627417929,
+    "duration" : 4816
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd33bbcb39a9a497",
+  "name" : "SignUP on providing correct Username and password -- @1.3 ",
+  "time" : {
+    "start" : 1650627184349,
+    "stop" : 1650627187187,
+    "duration" : 2838
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "762773eb923ed667",
+  "name" : "Check LogOut API after SignIN",
+  "time" : {
+    "start" : 1650627200731,
+    "stop" : 1650627209510,
+    "duration" : 8779
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da263d95c5c86154",
+  "name" : "To SignUp into the app to generate a new token -- @1.2 ",
+  "time" : {
+    "start" : 1650627388177,
+    "stop" : 1650627391428,
+    "duration" : 3251
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4fcade4ac9d513ed",
+  "name" : "To get the policy by setting no_policy as True -- @1.1 ",
+  "time" : {
+    "start" : 1650627401356,
+    "stop" : 1650627402767,
+    "duration" : 1411
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6403112d539d328c",
+  "name" : "Successful Signup on giving authentic EmailID and Password -- @1.6 ",
+  "time" : {
+    "start" : 1650627218954,
+    "stop" : 1650627220922,
+    "duration" : 1968
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78ac98f6ce2ba107",
+  "name" : "Save items with Save items API after SignUp -- @1.4 ",
+  "time" : {
+    "start" : 1650627100761,
+    "stop" : 1650627108950,
+    "duration" : 8189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8b1fd966e255da",
+  "name" : "SignIN into the app using the email used during SignUp -- @1.3 ",
+  "time" : {
+    "start" : 1650627194756,
+    "stop" : 1650627196286,
+    "duration" : 1530
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1decf485ac2a825",
+  "name" : "Reset the password of users who have signedIN/SignedUP -- @1.2 ",
+  "time" : {
+    "start" : 1650627248407,
+    "stop" : 1650627249969,
+    "duration" : 1562
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b966e7c2239341f4",
+  "name" : "SignUP on providing correct Username and password -- @1.6 ",
+  "time" : {
+    "start" : 1650627189945,
+    "stop" : 1650627191482,
+    "duration" : 1537
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

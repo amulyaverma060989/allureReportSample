@@ -1,0 +1,138 @@
+{
+  "uid" : "317a6538729e6937",
+  "name" : "SignUP on providing correct Username and password -- @1.1 ",
+  "fullName" : "Verify end to end working of Sign IN and Log Out API: SignUP on providing correct Username and password",
+  "historyId" : "e100e6a0194bd241ecfdc2af7c85ee55",
+  "time" : {
+    "start" : 1650627179449,
+    "stop" : 1650627182552,
+    "duration" : 3103
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given SignUP API to check SignIN",
+      "time" : {
+        "start" : 1650627179450,
+        "stop" : 1650627179451,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When distinct EmailID, Password, appID and ios are provided",
+      "time" : {
+        "start" : 1650627179451,
+        "stop" : 1650627182551,
+        "duration" : 3100
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then SignUP is successful and status code is 201",
+      "time" : {
+        "start" : 1650627182551,
+        "stop" : 1650627182552,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And a unique token will be generated",
+      "time" : {
+        "start" : 1650627182552,
+        "stop" : 1650627182552,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "signUP"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "feature",
+    "value" : "Verify end to end working of Sign IN and Log Out API"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "platform",
+    "value" : "ios"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fe8270899039ba61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650626663894,
+        "stop" : 1650626665289,
+        "duration" : 1395
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "regression", "smoke", "signUP" ]
+  },
+  "source" : "317a6538729e6937.json",
+  "parameterValues" : [ "ios" ]
+}

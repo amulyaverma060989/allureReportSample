@@ -1,0 +1,128 @@
+{
+  "uid" : "3e11bdb264e0b795",
+  "name" : "SignUp to the app. -- @1.3 ",
+  "fullName" : "Verify working of SignIN API with negative Scenario: SignUp to the app.",
+  "historyId" : "6736bfcb01056a32faa87df37ed054d4",
+  "time" : {
+    "start" : 1650626647819,
+    "stop" : 1650626650471,
+    "duration" : 2652
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given SignUP API to register",
+      "time" : {
+        "start" : 1650626647821,
+        "stop" : 1650626647822,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When SignUP is performed on different android",
+      "time" : {
+        "start" : 1650626647822,
+        "stop" : 1650626650469,
+        "duration" : 2647
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then registeration is success and status code is 201",
+      "time" : {
+        "start" : 1650626650470,
+        "stop" : 1650626650470,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And a unique token against each signUP is created",
+      "time" : {
+        "start" : 1650626650471,
+        "stop" : 1650626650471,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "negativelogin"
+  }, {
+    "name" : "tag",
+    "value" : "negativesignUP"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "feature",
+    "value" : "Verify working of SignIN API with negative Scenario"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "platform",
+    "value" : "android"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "negativesignUP", "negativelogin", "regression" ]
+  },
+  "source" : "3e11bdb264e0b795.json",
+  "parameterValues" : [ "android" ]
+}

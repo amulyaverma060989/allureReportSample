@@ -1,0 +1,174 @@
+{
+  "uid" : "78ac98f6ce2ba107",
+  "name" : "Save items with Save items API after SignUp -- @1.4 ",
+  "fullName" : "To test working of save items APIs from end to end prespective: Save items with Save items API after SignUp",
+  "historyId" : "ab5dcbde347380cd882ec65bf6306675",
+  "time" : {
+    "start" : 1650627100761,
+    "stop" : 1650627108950,
+    "duration" : 8189
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Saved items API",
+      "time" : {
+        "start" : 1650627100763,
+        "stop" : 1650627100764,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When unique 35880 is added to saved item lg wise and POST request is done",
+      "time" : {
+        "start" : 1650627100765,
+        "stop" : 1650627103099,
+        "duration" : 2334
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then item is succesfully saved and status code is 200",
+      "time" : {
+        "start" : 1650627103100,
+        "stop" : 1650627103100,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And the response consists of the 35880 which is saved",
+      "time" : {
+        "start" : 1650627103101,
+        "stop" : 1650627103101,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And again another item is stored with 60609 lg wise",
+      "time" : {
+        "start" : 1650627103102,
+        "stop" : 1650627108865,
+        "duration" : 5763
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And again response will consist of 60609",
+      "time" : {
+        "start" : 1650627108949,
+        "stop" : 1650627108950,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "postSavedItem"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "feature",
+    "value" : "To test working of save items APIs from end to end prespective"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "cid1",
+    "value" : "35880"
+  }, {
+    "name" : "cid2",
+    "value" : "60609"
+  }, {
+    "name" : "platform",
+    "value" : "lg"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "51c6e3962a8c56f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650626605342,
+        "stop" : 1650626608291,
+        "duration" : 2949
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "postSavedItem", "regression", "smoke" ]
+  },
+  "source" : "78ac98f6ce2ba107.json",
+  "parameterValues" : [ "35880", "60609", "lg" ]
+}

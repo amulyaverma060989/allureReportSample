@@ -1,0 +1,153 @@
+{
+  "uid" : "8c410291597fe0b5",
+  "name" : "SignIN into the app using the email used during SignUp -- @1.6 ",
+  "fullName" : "Verify end to end working of Sign IN and Log Out API: SignIN into the app using the email used during SignUp",
+  "historyId" : "060cc5afe82ed3e9774ec1fb25f98126",
+  "time" : {
+    "start" : 1650627199382,
+    "stop" : 1650627200729,
+    "duration" : 1347
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given SignIN API",
+      "time" : {
+        "start" : 1650627199383,
+        "stop" : 1650627199383,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When EmailID and Password used for SignUP and roku are provided",
+      "time" : {
+        "start" : 1650627199383,
+        "stop" : 1650627200727,
+        "duration" : 1344
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then SignIn is success and status code is 201",
+      "time" : {
+        "start" : 1650627200727,
+        "stop" : 1650627200728,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And a unique signIn token will be generated",
+      "time" : {
+        "start" : 1650627200728,
+        "stop" : 1650627200728,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And identifier will be equal to SignUP roku wise identifier for the same email",
+      "time" : {
+        "start" : 1650627200728,
+        "stop" : 1650627200729,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "login"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "feature",
+    "value" : "Verify end to end working of Sign IN and Log Out API"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "platform",
+    "value" : "roku"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "127241bc246228c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650626685740,
+        "stop" : 1650626687095,
+        "duration" : 1355
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "regression", "smoke", "login" ]
+  },
+  "source" : "8c410291597fe0b5.json",
+  "parameterValues" : [ "roku" ]
+}

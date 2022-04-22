@@ -1,0 +1,174 @@
+{
+  "uid" : "46ecc86452a40e2b",
+  "name" : "Save items with Save items API after SignUp -- @1.5 ",
+  "fullName" : "To test working of save items APIs from end to end prespective: Save items with Save items API after SignUp",
+  "historyId" : "70154c56ff2c7e4deca7429275febc27",
+  "time" : {
+    "start" : 1650627108951,
+    "stop" : 1650627111503,
+    "duration" : 2552
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Saved items API",
+      "time" : {
+        "start" : 1650627108953,
+        "stop" : 1650627108953,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When unique 35880 is added to saved item samsung wise and POST request is done",
+      "time" : {
+        "start" : 1650627108953,
+        "stop" : 1650627110096,
+        "duration" : 1143
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then item is succesfully saved and status code is 200",
+      "time" : {
+        "start" : 1650627110098,
+        "stop" : 1650627110098,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And the response consists of the 35880 which is saved",
+      "time" : {
+        "start" : 1650627110098,
+        "stop" : 1650627110099,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And again another item is stored with 60609 samsung wise",
+      "time" : {
+        "start" : 1650627110099,
+        "stop" : 1650627111501,
+        "duration" : 1402
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And again response will consist of 60609",
+      "time" : {
+        "start" : 1650627111502,
+        "stop" : 1650627111502,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "postSavedItem"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "feature",
+    "value" : "To test working of save items APIs from end to end prespective"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "cid1",
+    "value" : "35880"
+  }, {
+    "name" : "cid2",
+    "value" : "60609"
+  }, {
+    "name" : "platform",
+    "value" : "samsung"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4c6ae9a955a5e898",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650626608294,
+        "stop" : 1650626611889,
+        "duration" : 3595
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "postSavedItem", "regression", "smoke" ]
+  },
+  "source" : "46ecc86452a40e2b.json",
+  "parameterValues" : [ "35880", "60609", "samsung" ]
+}

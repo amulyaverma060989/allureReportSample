@@ -1,0 +1,134 @@
+{
+  "uid" : "f56e5336eda20365",
+  "name" : "Delete Saved items -- @1.1 ",
+  "fullName" : "To test working of save items APIs from end to end prespective: Delete Saved items",
+  "historyId" : "3073773bdb7e6ace8eb46b1b6fa10daa",
+  "time" : {
+    "start" : 1650626620736,
+    "stop" : 1650626623542,
+    "duration" : 2806
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Delete Saved items API with 35880 to delete",
+      "time" : {
+        "start" : 1650626620737,
+        "stop" : 1650626620738,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When a cid is deleted by delete API ios wise",
+      "time" : {
+        "start" : 1650626620738,
+        "stop" : 1650626621920,
+        "duration" : 1182
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then deletion is success and status code is 204",
+      "time" : {
+        "start" : 1650626621921,
+        "stop" : 1650626621921,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then Get Saved items API is again called ios wise, and the size of response should decrement by 1",
+      "time" : {
+        "start" : 1650626621922,
+        "stop" : 1650626623541,
+        "duration" : 1619
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "contentList"
+  }, {
+    "name" : "tag",
+    "value" : "deleteSavedItem"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "feature",
+    "value" : "To test working of save items APIs from end to end prespective"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "cid",
+    "value" : "35880"
+  }, {
+    "name" : "platform",
+    "value" : "ios"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "deleteSavedItem", "regression", "smoke", "contentList" ]
+  },
+  "source" : "f56e5336eda20365.json",
+  "parameterValues" : [ "35880", "ios" ]
+}

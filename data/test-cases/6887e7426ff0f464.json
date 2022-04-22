@@ -1,0 +1,117 @@
+{
+  "uid" : "6887e7426ff0f464",
+  "name" : "To test FireBase push notification API -- @1.1 ",
+  "fullName" : "To test firebase push notification API only for iOS and Android: To test FireBase push notification API",
+  "historyId" : "5197848f4e29340d817f629bda2971c4",
+  "time" : {
+    "start" : 1650627391429,
+    "stop" : 1650627393942,
+    "duration" : 2513
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given FireBase push notification API",
+      "time" : {
+        "start" : 1650627391430,
+        "stop" : 1650627391431,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When ios wise token  and 60 is passed to the API body",
+      "time" : {
+        "start" : 1650627391431,
+        "stop" : 1650627393940,
+        "duration" : 2509
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then Firebase push is success and status code is 200",
+      "time" : {
+        "start" : 1650627393941,
+        "stop" : 1650627393941,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "To test firebase push notification API only for iOS and Android"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "appID",
+    "value" : "60"
+  }, {
+    "name" : "platform",
+    "value" : "ios"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "95ae319510ad2c53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650626773563,
+        "stop" : 1650626777004,
+        "duration" : 3441
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6887e7426ff0f464.json",
+  "parameterValues" : [ "60", "ios" ]
+}

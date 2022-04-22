@@ -1,0 +1,128 @@
+{
+  "uid" : "75e110092d5bff14",
+  "name" : "SignIN into the app with correct email but different password -- @1.2 ",
+  "fullName" : "Verify working of SignIN API with negative Scenario: SignIN into the app with correct email but different password",
+  "historyId" : "5b2efdc098227320df151288e0bee9fb",
+  "time" : {
+    "start" : 1650626656568,
+    "stop" : 1650626657923,
+    "duration" : 1355
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given SignIN API to login into the app",
+      "time" : {
+        "start" : 1650626656569,
+        "stop" : 1650626656571,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When SignIN is performed on different web with wrong wrong password",
+      "time" : {
+        "start" : 1650626656571,
+        "stop" : 1650626657920,
+        "duration" : 1349
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then SignIN fails and status code is 401",
+      "time" : {
+        "start" : 1650626657921,
+        "stop" : 1650626657921,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And Error message is \"Invalid App, Email or password.\"",
+      "time" : {
+        "start" : 1650626657922,
+        "stop" : 1650626657922,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "failedLogin"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "feature",
+    "value" : "Verify working of SignIN API with negative Scenario"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "password",
+    "value" : "wrong password"
+  }, {
+    "name" : "platform",
+    "value" : "web"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "regression", "failedLogin" ]
+  },
+  "source" : "75e110092d5bff14.json",
+  "parameterValues" : [ "wrong password", "web" ]
+}

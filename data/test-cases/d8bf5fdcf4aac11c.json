@@ -1,0 +1,120 @@
+{
+  "uid" : "d8bf5fdcf4aac11c",
+  "name" : "Anonymous user streaming API -- @1.2 ",
+  "fullName" : "To test Anonymous user Stream API: Anonymous user streaming API",
+  "historyId" : "df3f4dfb7e5e526f8e1aa49d2bc30f14",
+  "time" : {
+    "start" : 1650627291692,
+    "stop" : 1650627355592,
+    "duration" : 63900
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Anonymous user stream API",
+      "time" : {
+        "start" : 1650627291693,
+        "stop" : 1650627291694,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When 99,web and 57420 are passed to the API body",
+      "time" : {
+        "start" : 1650627291695,
+        "stop" : 1650627355591,
+        "duration" : 63896
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then Playback starts and status code is 200",
+      "time" : {
+        "start" : 1650627355592,
+        "stop" : 1650627355592,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "To test Anonymous user Stream API"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "appID",
+    "value" : "99"
+  }, {
+    "name" : "cid",
+    "value" : "57420"
+  }, {
+    "name" : "platform",
+    "value" : "web"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "edd12bede393a3b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650626739568,
+        "stop" : 1650626742733,
+        "duration" : 3165
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8bf5fdcf4aac11c.json",
+  "parameterValues" : [ "99", "57420", "web" ]
+}

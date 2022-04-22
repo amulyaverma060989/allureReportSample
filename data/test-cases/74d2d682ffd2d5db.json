@@ -1,0 +1,138 @@
+{
+  "uid" : "74d2d682ffd2d5db",
+  "name" : "Successful Signup on giving authentic EmailID and Password -- @1.4 ",
+  "fullName" : "Verify different Scenarios for Sign Up API on Production enviornment.: Successful Signup on giving authentic EmailID and Password",
+  "historyId" : "bf50d70c46c452e52cdb472920ab7256",
+  "time" : {
+    "start" : 1650627215612,
+    "stop" : 1650627217091,
+    "duration" : 1479
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given SignUp API as POST Request",
+      "time" : {
+        "start" : 1650627215613,
+        "stop" : 1650627215614,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When EmailID, Password, appID and lg are provided",
+      "time" : {
+        "start" : 1650627215614,
+        "stop" : 1650627217088,
+        "duration" : 1474
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then Status Code is 201",
+      "time" : {
+        "start" : 1650627217089,
+        "stop" : 1650627217089,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And Unique token is generated",
+      "time" : {
+        "start" : 1650627217090,
+        "stop" : 1650627217090,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "sharing"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "feature",
+    "value" : "Verify different Scenarios for Sign Up API on Production enviornment."
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "platform",
+    "value" : "lg"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "720837675a589818",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650626702162,
+        "stop" : 1650626703575,
+        "duration" : 1413
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "regression", "smoke", "sharing" ]
+  },
+  "source" : "74d2d682ffd2d5db.json",
+  "parameterValues" : [ "lg" ]
+}

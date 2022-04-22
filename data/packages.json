@@ -1,0 +1,1824 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Successful Signup on giving authentic EmailID and Password -- @1.1 ",
+    "uid" : "cb7f3759852e8577",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627077870,
+      "stop" : 1650627079508,
+      "duration" : 1638
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "ios" ]
+  }, {
+    "name" : "Successful Signup on giving authentic EmailID and Password -- @1.2 ",
+    "uid" : "179a1638f05d5c0a",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627079510,
+      "stop" : 1650627081556,
+      "duration" : 2046
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "web" ]
+  }, {
+    "name" : "Successful Signup on giving authentic EmailID and Password -- @1.3 ",
+    "uid" : "569032ae309cc244",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627081557,
+      "stop" : 1650627084399,
+      "duration" : 2842
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "android" ]
+  }, {
+    "name" : "Successful Signup on giving authentic EmailID and Password -- @1.4 ",
+    "uid" : "4d978e312e6646a0",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627084400,
+      "stop" : 1650627085809,
+      "duration" : 1409
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "lg" ]
+  }, {
+    "name" : "Successful Signup on giving authentic EmailID and Password -- @1.5 ",
+    "uid" : "901908d6b7b7c64d",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627085810,
+      "stop" : 1650627088680,
+      "duration" : 2870
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "samsung" ]
+  }, {
+    "name" : "Successful Signup on giving authentic EmailID and Password -- @1.6 ",
+    "uid" : "98f616f6a3db966",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627088681,
+      "stop" : 1650627091634,
+      "duration" : 2953
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "roku" ]
+  }, {
+    "name" : "Save items with Save items API after SignUp -- @1.1 ",
+    "uid" : "8b5cf6268e94e06a",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627091636,
+      "stop" : 1650627094848,
+      "duration" : 3212
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "35880", "60609", "ios" ]
+  }, {
+    "name" : "Save items with Save items API after SignUp -- @1.2 ",
+    "uid" : "a8137c52bb3aec67",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627094850,
+      "stop" : 1650627097721,
+      "duration" : 2871
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "35880", "60609", "web" ]
+  }, {
+    "name" : "Save items with Save items API after SignUp -- @1.3 ",
+    "uid" : "c06e9877f6201060",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627097723,
+      "stop" : 1650627100759,
+      "duration" : 3036
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "35880", "60609", "android" ]
+  }, {
+    "name" : "Save items with Save items API after SignUp -- @1.4 ",
+    "uid" : "78ac98f6ce2ba107",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627100761,
+      "stop" : 1650627108950,
+      "duration" : 8189
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "35880", "60609", "lg" ]
+  }, {
+    "name" : "Save items with Save items API after SignUp -- @1.5 ",
+    "uid" : "46ecc86452a40e2b",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627108951,
+      "stop" : 1650627111503,
+      "duration" : 2552
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "35880", "60609", "samsung" ]
+  }, {
+    "name" : "Save items with Save items API after SignUp -- @1.6 ",
+    "uid" : "a15073273dd4b766",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627111505,
+      "stop" : 1650627114206,
+      "duration" : 2701
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "35880", "60609", "roku" ]
+  }, {
+    "name" : "Get Saved items list for the user -- @1.1 ",
+    "uid" : "c853d41e588de992",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627114208,
+      "stop" : 1650627115373,
+      "duration" : 1165
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "ios" ]
+  }, {
+    "name" : "Get Saved items list for the user -- @1.2 ",
+    "uid" : "8b0f6e55b5244abd",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627115376,
+      "stop" : 1650627116776,
+      "duration" : 1400
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "web" ]
+  }, {
+    "name" : "Get Saved items list for the user -- @1.3 ",
+    "uid" : "7a2bafbc5386b7c2",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627116777,
+      "stop" : 1650627118383,
+      "duration" : 1606
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "android" ]
+  }, {
+    "name" : "Get Saved items list for the user -- @1.4 ",
+    "uid" : "982b083db65ed7b",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627118384,
+      "stop" : 1650627120055,
+      "duration" : 1671
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "lg" ]
+  }, {
+    "name" : "Get Saved items list for the user -- @1.5 ",
+    "uid" : "fe202572272ae20f",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627120056,
+      "stop" : 1650627121270,
+      "duration" : 1214
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "samsung" ]
+  }, {
+    "name" : "Get Saved items list for the user -- @1.6 ",
+    "uid" : "4266cfc63ff781a0",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627121271,
+      "stop" : 1650627124347,
+      "duration" : 3076
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "roku" ]
+  }, {
+    "name" : "Delete Saved items -- @1.1 ",
+    "uid" : "79e98abbda5fc960",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627124349,
+      "stop" : 1650627126536,
+      "duration" : 2187
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "35880", "ios" ]
+  }, {
+    "name" : "Delete Saved items -- @1.2 ",
+    "uid" : "27224c555b4f6e11",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627126539,
+      "stop" : 1650627131811,
+      "duration" : 5272
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "35880", "web" ]
+  }, {
+    "name" : "Delete Saved items -- @1.3 ",
+    "uid" : "c2d6838a7385e26b",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627131814,
+      "stop" : 1650627138916,
+      "duration" : 7102
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "35880", "android" ]
+  }, {
+    "name" : "Delete Saved items -- @1.4 ",
+    "uid" : "b26ea3910428b65f",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627138919,
+      "stop" : 1650627142502,
+      "duration" : 3583
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "35880", "lg" ]
+  }, {
+    "name" : "Delete Saved items -- @1.5 ",
+    "uid" : "fc569df94dfc691f",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627142505,
+      "stop" : 1650627147558,
+      "duration" : 5053
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "35880", "samsung" ]
+  }, {
+    "name" : "Delete Saved items -- @1.6 ",
+    "uid" : "dc3fbed6b52ecec5",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627147560,
+      "stop" : 1650627153900,
+      "duration" : 6340
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "35880", "roku" ]
+  }, {
+    "name" : "SignUp to the app. -- @1.1 ",
+    "uid" : "2a990131332e40ac",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627153911,
+      "stop" : 1650627155755,
+      "duration" : 1844
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "ios" ]
+  }, {
+    "name" : "SignUp to the app. -- @1.2 ",
+    "uid" : "afb6816b6eeccc65",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627155757,
+      "stop" : 1650627159833,
+      "duration" : 4076
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "web" ]
+  }, {
+    "name" : "SignUp to the app. -- @1.3 ",
+    "uid" : "c3cf5a45f0d66605",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627159836,
+      "stop" : 1650627162011,
+      "duration" : 2175
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "android" ]
+  }, {
+    "name" : "SignUp to the app. -- @1.4 ",
+    "uid" : "773d839401abcb98",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627162012,
+      "stop" : 1650627166875,
+      "duration" : 4863
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "lg" ]
+  }, {
+    "name" : "SignUp to the app. -- @1.5 ",
+    "uid" : "db6ea86d17229647",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627166877,
+      "stop" : 1650627168200,
+      "duration" : 1323
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "samsung" ]
+  }, {
+    "name" : "SignUp to the app. -- @1.6 ",
+    "uid" : "6cc237a907f5cb2b",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627168202,
+      "stop" : 1650627169914,
+      "duration" : 1712
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "roku" ]
+  }, {
+    "name" : "SignIN into the app with correct email but different password -- @1.1 ",
+    "uid" : "31053f0c32074b38",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627169916,
+      "stop" : 1650627171196,
+      "duration" : 1280
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "wrong password", "ios" ]
+  }, {
+    "name" : "SignIN into the app with correct email but different password -- @1.2 ",
+    "uid" : "a6a440b7b92a9828",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627171197,
+      "stop" : 1650627172598,
+      "duration" : 1401
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "wrong password", "web" ]
+  }, {
+    "name" : "SignIN into the app with correct email but different password -- @1.3 ",
+    "uid" : "d955063c531d7d07",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627172599,
+      "stop" : 1650627174070,
+      "duration" : 1471
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "wrong password", "android" ]
+  }, {
+    "name" : "SignIN into the app with correct email but different password -- @1.4 ",
+    "uid" : "21894652dd55b58a",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627174071,
+      "stop" : 1650627175783,
+      "duration" : 1712
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "wrong password", "lg" ]
+  }, {
+    "name" : "SignIN into the app with correct email but different password -- @1.5 ",
+    "uid" : "d29707df90f66228",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627175785,
+      "stop" : 1650627177655,
+      "duration" : 1870
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "wrong password", "samsung" ]
+  }, {
+    "name" : "SignIN into the app with correct email but different password -- @1.6 ",
+    "uid" : "51d4cf67b085e40f",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627177657,
+      "stop" : 1650627179441,
+      "duration" : 1784
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "wrong password", "roku" ]
+  }, {
+    "name" : "SignUP on providing correct Username and password -- @1.1 ",
+    "uid" : "317a6538729e6937",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627179449,
+      "stop" : 1650627182552,
+      "duration" : 3103
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "ios" ]
+  }, {
+    "name" : "SignUP on providing correct Username and password -- @1.2 ",
+    "uid" : "a8074e9706a47be2",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627182554,
+      "stop" : 1650627184348,
+      "duration" : 1794
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "web" ]
+  }, {
+    "name" : "SignUP on providing correct Username and password -- @1.3 ",
+    "uid" : "bd33bbcb39a9a497",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627184349,
+      "stop" : 1650627187187,
+      "duration" : 2838
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "android" ]
+  }, {
+    "name" : "SignUP on providing correct Username and password -- @1.4 ",
+    "uid" : "136650d2708d902",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627187189,
+      "stop" : 1650627188558,
+      "duration" : 1369
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "lg" ]
+  }, {
+    "name" : "SignUP on providing correct Username and password -- @1.5 ",
+    "uid" : "4ade001c557e3849",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627188560,
+      "stop" : 1650627189943,
+      "duration" : 1383
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "samsung" ]
+  }, {
+    "name" : "SignUP on providing correct Username and password -- @1.6 ",
+    "uid" : "b966e7c2239341f4",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627189945,
+      "stop" : 1650627191482,
+      "duration" : 1537
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "roku" ]
+  }, {
+    "name" : "SignIN into the app using the email used during SignUp -- @1.1 ",
+    "uid" : "e9a489d11649de36",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627191484,
+      "stop" : 1650627192890,
+      "duration" : 1406
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "ios" ]
+  }, {
+    "name" : "SignIN into the app using the email used during SignUp -- @1.2 ",
+    "uid" : "de540096ba73ac1",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627192891,
+      "stop" : 1650627194755,
+      "duration" : 1864
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "web" ]
+  }, {
+    "name" : "SignIN into the app using the email used during SignUp -- @1.3 ",
+    "uid" : "f8b1fd966e255da",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627194756,
+      "stop" : 1650627196286,
+      "duration" : 1530
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "android" ]
+  }, {
+    "name" : "SignIN into the app using the email used during SignUp -- @1.4 ",
+    "uid" : "d057d00df073c055",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627196287,
+      "stop" : 1650627197995,
+      "duration" : 1708
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "lg" ]
+  }, {
+    "name" : "SignIN into the app using the email used during SignUp -- @1.5 ",
+    "uid" : "b0bd3e80f3006ea5",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627197996,
+      "stop" : 1650627199382,
+      "duration" : 1386
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "samsung" ]
+  }, {
+    "name" : "SignIN into the app using the email used during SignUp -- @1.6 ",
+    "uid" : "8c410291597fe0b5",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627199382,
+      "stop" : 1650627200729,
+      "duration" : 1347
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "roku" ]
+  }, {
+    "name" : "Check LogOut API after SignIN",
+    "uid" : "762773eb923ed667",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627200731,
+      "stop" : 1650627209510,
+      "duration" : 8779
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Successful Signup on giving authentic EmailID and Password -- @1.1 ",
+    "uid" : "685075f4d8c8a408",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627209517,
+      "stop" : 1650627211274,
+      "duration" : 1757
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "ios" ]
+  }, {
+    "name" : "Successful Signup on giving authentic EmailID and Password -- @1.2 ",
+    "uid" : "dc76f5a2479a6b9",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627211276,
+      "stop" : 1650627212739,
+      "duration" : 1463
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "web" ]
+  }, {
+    "name" : "Successful Signup on giving authentic EmailID and Password -- @1.3 ",
+    "uid" : "11845a76be2552dd",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627212741,
+      "stop" : 1650627215611,
+      "duration" : 2870
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "android" ]
+  }, {
+    "name" : "Successful Signup on giving authentic EmailID and Password -- @1.4 ",
+    "uid" : "74d2d682ffd2d5db",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627215612,
+      "stop" : 1650627217091,
+      "duration" : 1479
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "lg" ]
+  }, {
+    "name" : "Successful Signup on giving authentic EmailID and Password -- @1.5 ",
+    "uid" : "d5805986d4f93fce",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627217092,
+      "stop" : 1650627218953,
+      "duration" : 1861
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "samsung" ]
+  }, {
+    "name" : "Successful Signup on giving authentic EmailID and Password -- @1.6 ",
+    "uid" : "6403112d539d328c",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627218954,
+      "stop" : 1650627220922,
+      "duration" : 1968
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "roku" ]
+  }, {
+    "name" : "Using same Email ID to SignUp -- @1.1 ",
+    "uid" : "dda9acd17e51d0e8",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627220922,
+      "stop" : 1650627223047,
+      "duration" : 2125
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "ios" ]
+  }, {
+    "name" : "Using same Email ID to SignUp -- @1.2 ",
+    "uid" : "c8140f4e68525791",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627223049,
+      "stop" : 1650627226166,
+      "duration" : 3117
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "web" ]
+  }, {
+    "name" : "Using same Email ID to SignUp -- @1.3 ",
+    "uid" : "362521bb94dd7fa6",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627226166,
+      "stop" : 1650627228087,
+      "duration" : 1921
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "android" ]
+  }, {
+    "name" : "Using same Email ID to SignUp -- @1.4 ",
+    "uid" : "f0ef084216b5d111",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627228088,
+      "stop" : 1650627229836,
+      "duration" : 1748
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "lg" ]
+  }, {
+    "name" : "Using same Email ID to SignUp -- @1.5 ",
+    "uid" : "5529087025683f41",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627229837,
+      "stop" : 1650627232253,
+      "duration" : 2416
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "samsung" ]
+  }, {
+    "name" : "Using same Email ID to SignUp -- @1.6 ",
+    "uid" : "300596b0db5700b",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627232255,
+      "stop" : 1650627235614,
+      "duration" : 3359
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "roku" ]
+  }, {
+    "name" : "Non-existential appID used to SignUp -- @1.1 ",
+    "uid" : "e9285327b7b032d3",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627235615,
+      "stop" : 1650627237012,
+      "duration" : 1397
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "ios" ]
+  }, {
+    "name" : "Non-existential appID used to SignUp -- @1.2 ",
+    "uid" : "ec230aabf8692b18",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627237013,
+      "stop" : 1650627239258,
+      "duration" : 2245
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "web" ]
+  }, {
+    "name" : "Non-existential appID used to SignUp -- @1.3 ",
+    "uid" : "80e2032d26a01e86",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627239260,
+      "stop" : 1650627240652,
+      "duration" : 1392
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "android" ]
+  }, {
+    "name" : "Non-existential appID used to SignUp -- @1.4 ",
+    "uid" : "8ce3f90111bea201",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627240653,
+      "stop" : 1650627242460,
+      "duration" : 1807
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "lg" ]
+  }, {
+    "name" : "Non-existential appID used to SignUp -- @1.5 ",
+    "uid" : "b3bbad8d049527e8",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627242461,
+      "stop" : 1650627243851,
+      "duration" : 1390
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "samsung" ]
+  }, {
+    "name" : "Non-existential appID used to SignUp -- @1.6 ",
+    "uid" : "51eebdcbad9de4ab",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627243853,
+      "stop" : 1650627246636,
+      "duration" : 2783
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "roku" ]
+  }, {
+    "name" : "Reset the password of users who have signedIN/SignedUP -- @1.1 ",
+    "uid" : "a7f7d4d715c7c2a9",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627246639,
+      "stop" : 1650627248406,
+      "duration" : 1767
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "ios" ]
+  }, {
+    "name" : "Reset the password of users who have signedIN/SignedUP -- @1.2 ",
+    "uid" : "c1decf485ac2a825",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627248407,
+      "stop" : 1650627249969,
+      "duration" : 1562
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "web" ]
+  }, {
+    "name" : "Reset the password of users who have signedIN/SignedUP -- @1.3 ",
+    "uid" : "e4e6f08c2ab8827e",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627249971,
+      "stop" : 1650627255443,
+      "duration" : 5472
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "android" ]
+  }, {
+    "name" : "Reset the password of users who have signedIN/SignedUP -- @1.4 ",
+    "uid" : "a253c5005aa3419e",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627255445,
+      "stop" : 1650627258454,
+      "duration" : 3009
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "lg" ]
+  }, {
+    "name" : "Reset the password of users who have signedIN/SignedUP -- @1.5 ",
+    "uid" : "20bdd11c305ba8f0",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627258455,
+      "stop" : 1650627260359,
+      "duration" : 1904
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "samsung" ]
+  }, {
+    "name" : "Reset the password of users who have signedIN/SignedUP -- @1.6 ",
+    "uid" : "8d20036c727189e9",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627260360,
+      "stop" : 1650627262096,
+      "duration" : 1736
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "roku" ]
+  }, {
+    "name" : "Anonymous user streaming API -- @1.1 ",
+    "uid" : "d28616d4c5dfd5ff",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627262101,
+      "stop" : 1650627291691,
+      "duration" : 29590
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "99", "57420", "ios" ]
+  }, {
+    "name" : "Anonymous user streaming API -- @1.2 ",
+    "uid" : "d8bf5fdcf4aac11c",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627291692,
+      "stop" : 1650627355592,
+      "duration" : 63900
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "99", "57420", "web" ]
+  }, {
+    "name" : "Anonymous user streaming API -- @1.3 ",
+    "uid" : "79fdd9ba0fdee9c9",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627355594,
+      "stop" : 1650627360459,
+      "duration" : 4865
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "99", "57420", "android" ]
+  }, {
+    "name" : "Anonymous user streaming API -- @1.4 ",
+    "uid" : "bd59f149e22efdd2",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627360461,
+      "stop" : 1650627365573,
+      "duration" : 5112
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "99", "57420", "lg" ]
+  }, {
+    "name" : "Anonymous user streaming API -- @1.5 ",
+    "uid" : "3740e0866c40721f",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627365576,
+      "stop" : 1650627368851,
+      "duration" : 3275
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "99", "57420", "samsung" ]
+  }, {
+    "name" : "Anonymous user streaming API -- @1.6 ",
+    "uid" : "8590a710069b1e49",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627368854,
+      "stop" : 1650627373130,
+      "duration" : 4276
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "99", "57420", "roku" ]
+  }, {
+    "name" : "To test app usage tracking -- @1.1 ",
+    "uid" : "6ff65791c306fbdc",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627373136,
+      "stop" : 1650627381999,
+      "duration" : 8863
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60" ]
+  }, {
+    "name" : "To SignUp into the app to generate a new token -- @1.1 ",
+    "uid" : "1ae8ed46f96e6267",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627382005,
+      "stop" : 1650627388176,
+      "duration" : 6171
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "ios" ]
+  }, {
+    "name" : "To SignUp into the app to generate a new token -- @1.2 ",
+    "uid" : "da263d95c5c86154",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627388177,
+      "stop" : 1650627391428,
+      "duration" : 3251
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "android" ]
+  }, {
+    "name" : "To test FireBase push notification API -- @1.1 ",
+    "uid" : "6887e7426ff0f464",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627391429,
+      "stop" : 1650627393942,
+      "duration" : 2513
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "ios" ]
+  }, {
+    "name" : "To test FireBase push notification API -- @1.2 ",
+    "uid" : "dd232087df245ae4",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627393944,
+      "stop" : 1650627396407,
+      "duration" : 2463
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "android" ]
+  }, {
+    "name" : "To get the policy by setting no_policy as False -- @1.1 ",
+    "uid" : "96b9392ffcd9b2c2",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627396416,
+      "stop" : 1650627397821,
+      "duration" : 1405
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "1" ]
+  }, {
+    "name" : "To get the policy by setting no_policy as False -- @1.2 ",
+    "uid" : "b35b14e2c097579b",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627397823,
+      "stop" : 1650627399597,
+      "duration" : 1774
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "89" ]
+  }, {
+    "name" : "To get the policy by setting no_policy as False -- @1.3 ",
+    "uid" : "aeb1d1cd547296b5",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627399598,
+      "stop" : 1650627401354,
+      "duration" : 1756
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "99" ]
+  }, {
+    "name" : "To get the policy by setting no_policy as True -- @1.1 ",
+    "uid" : "4fcade4ac9d513ed",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627401356,
+      "stop" : 1650627402767,
+      "duration" : 1411
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "1" ]
+  }, {
+    "name" : "To get the policy by setting no_policy as True -- @1.2 ",
+    "uid" : "5f789b6153ee35cb",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627402769,
+      "stop" : 1650627405839,
+      "duration" : 3070
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "89" ]
+  }, {
+    "name" : "To get the policy by setting no_policy as True -- @1.3 ",
+    "uid" : "2b964dc3152a472d",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627405840,
+      "stop" : 1650627407895,
+      "duration" : 2055
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "99" ]
+  }, {
+    "name" : "To check policy API response for non-existent app -- @1.1 ",
+    "uid" : "9358b581adc78236",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627407898,
+      "stop" : 1650627409536,
+      "duration" : 1638
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "0" ]
+  }, {
+    "name" : "SignUp to the app to test streams API -- @1.1 ",
+    "uid" : "a3dc191e090961cc",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627409548,
+      "stop" : 1650627413111,
+      "duration" : 3563
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "ios" ]
+  }, {
+    "name" : "SignUp to the app to test streams API -- @1.2 ",
+    "uid" : "6df0a69f3a9c62f1",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627413113,
+      "stop" : 1650627417929,
+      "duration" : 4816
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "web" ]
+  }, {
+    "name" : "SignUp to the app to test streams API -- @1.3 ",
+    "uid" : "187e93b329559019",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627417932,
+      "stop" : 1650627421106,
+      "duration" : 3174
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "android" ]
+  }, {
+    "name" : "SignUp to the app to test streams API -- @1.4 ",
+    "uid" : "31ac0c1738ee972a",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627421107,
+      "stop" : 1650627427015,
+      "duration" : 5908
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "lg" ]
+  }, {
+    "name" : "SignUp to the app to test streams API -- @1.5 ",
+    "uid" : "d121163ad63036",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627427017,
+      "stop" : 1650627429628,
+      "duration" : 2611
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "samsung" ]
+  }, {
+    "name" : "SignUp to the app to test streams API -- @1.6 ",
+    "uid" : "5d835ae2cd2cb6c4",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627429630,
+      "stop" : 1650627433934,
+      "duration" : 4304
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "roku" ]
+  }, {
+    "name" : "Test POST stream API -- @1.1 ",
+    "uid" : "632b7ee07486e6e5",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627433936,
+      "stop" : 1650627438055,
+      "duration" : 4119
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "61171", "35826", "ios" ]
+  }, {
+    "name" : "Test POST stream API -- @1.2 ",
+    "uid" : "2945c136f97646b9",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627438058,
+      "stop" : 1650627442164,
+      "duration" : 4106
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "61171", "35826", "web" ]
+  }, {
+    "name" : "Test POST stream API -- @1.3 ",
+    "uid" : "eb38cbd8103924c1",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627442166,
+      "stop" : 1650627457609,
+      "duration" : 15443
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "61171", "35826", "android" ]
+  }, {
+    "name" : "Test POST stream API -- @1.4 ",
+    "uid" : "e47ef3dc4e077332",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627457612,
+      "stop" : 1650627466181,
+      "duration" : 8569
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "61171", "35826", "lg" ]
+  }, {
+    "name" : "Test POST stream API -- @1.5 ",
+    "uid" : "3ea50af1f0dd1c60",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627466183,
+      "stop" : 1650627474191,
+      "duration" : 8008
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "61171", "35826", "samsung" ]
+  }, {
+    "name" : "Test POST stream API -- @1.6 ",
+    "uid" : "df2f429fcb786bfa",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627474194,
+      "stop" : 1650627492614,
+      "duration" : 18420
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "60", "61171", "35826", "roku" ]
+  }, {
+    "name" : "Test GET Stream API -- @1.1 ",
+    "uid" : "33f0e4cc4e7f28e1",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627492617,
+      "stop" : 1650627495857,
+      "duration" : 3240
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "ios" ]
+  }, {
+    "name" : "Test GET Stream API -- @1.2 ",
+    "uid" : "306a6743a8b7e529",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627495860,
+      "stop" : 1650627496898,
+      "duration" : 1038
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "web" ]
+  }, {
+    "name" : "Test GET Stream API -- @1.3 ",
+    "uid" : "bd60b711d7d1c909",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627496900,
+      "stop" : 1650627498315,
+      "duration" : 1415
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "android" ]
+  }, {
+    "name" : "Get tool box devices",
+    "uid" : "aa28ed731874933e",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1650627498317,
+      "stop" : 1650627500917,
+      "duration" : 2600
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  } ]
+}
