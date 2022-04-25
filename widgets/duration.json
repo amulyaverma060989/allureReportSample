@@ -1,0 +1,151 @@
+[ {
+  "uid" : "e6db24a4b19284db",
+  "name" : "Test GET Stream API -- @1.3 ",
+  "time" : {
+    "start" : 1650888789492,
+    "stop" : 1650888790485,
+    "duration" : 993
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "25d38f1f6ff51424",
+  "name" : "SignUp to the app to test streams API -- @1.5 ",
+  "time" : {
+    "start" : 1650888758825,
+    "stop" : 1650888761844,
+    "duration" : 3019
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28bf81db831ca677",
+  "name" : "Test POST stream API -- @1.4 ",
+  "time" : {
+    "start" : 1650888776085,
+    "stop" : 1650888779782,
+    "duration" : 3697
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aef7b241fbc68e4e",
+  "name" : "SignUp to the app to test streams API -- @1.2 ",
+  "time" : {
+    "start" : 1650888750327,
+    "stop" : 1650888753657,
+    "duration" : 3330
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "902248a31e4b9506",
+  "name" : "SignUp to the app to test streams API -- @1.4 ",
+  "time" : {
+    "start" : 1650888756271,
+    "stop" : 1650888758824,
+    "duration" : 2553
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b84fa284bc172df7",
+  "name" : "SignUp to the app to test streams API -- @1.3 ",
+  "time" : {
+    "start" : 1650888753659,
+    "stop" : 1650888756269,
+    "duration" : 2610
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f35bf669afb282b",
+  "name" : "Test GET Stream API -- @1.2 ",
+  "time" : {
+    "start" : 1650888788480,
+    "stop" : 1650888789490,
+    "duration" : 1010
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7efc98f344795aff",
+  "name" : "Test POST stream API -- @1.6 ",
+  "time" : {
+    "start" : 1650888783618,
+    "stop" : 1650888787319,
+    "duration" : 3701
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c21b96423b4f529",
+  "name" : "Test POST stream API -- @1.2 ",
+  "time" : {
+    "start" : 1650888768406,
+    "stop" : 1650888772235,
+    "duration" : 3829
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ff9ae1aaa90d3b3",
+  "name" : "SignUp to the app to test streams API -- @1.6 ",
+  "time" : {
+    "start" : 1650888761845,
+    "stop" : 1650888764410,
+    "duration" : 2565
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f866f27a2e33b0e8",
+  "name" : "SignUp to the app to test streams API -- @1.1 ",
+  "time" : {
+    "start" : 1650888747589,
+    "stop" : 1650888750326,
+    "duration" : 2737
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a4c87c51beb3a58",
+  "name" : "Test POST stream API -- @1.1 ",
+  "time" : {
+    "start" : 1650888764412,
+    "stop" : 1650888768404,
+    "duration" : 3992
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5642963dded6ac4b",
+  "name" : "Test POST stream API -- @1.3 ",
+  "time" : {
+    "start" : 1650888772238,
+    "stop" : 1650888776083,
+    "duration" : 3845
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98d8ad8c9410b16e",
+  "name" : "Test POST stream API -- @1.5 ",
+  "time" : {
+    "start" : 1650888779784,
+    "stop" : 1650888783616,
+    "duration" : 3832
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80aa7b10267cb1da",
+  "name" : "Test GET Stream API -- @1.1 ",
+  "time" : {
+    "start" : 1650888787321,
+    "stop" : 1650888788478,
+    "duration" : 1157
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

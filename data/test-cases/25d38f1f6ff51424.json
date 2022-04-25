@@ -1,0 +1,133 @@
+{
+  "uid" : "25d38f1f6ff51424",
+  "name" : "SignUp to the app to test streams API -- @1.5 ",
+  "fullName" : "To test streams APIs: SignUp to the app to test streams API",
+  "historyId" : "9fe7c7504f5a0c6f76d341c3f55f3fba",
+  "time" : {
+    "start" : 1650888758825,
+    "stop" : 1650888761844,
+    "duration" : 3019
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given 60 and SignUp API",
+      "time" : {
+        "start" : 1650888758826,
+        "stop" : 1650888758827,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When SignUp is performed with proper body and samsung",
+      "time" : {
+        "start" : 1650888758827,
+        "stop" : 1650888761843,
+        "duration" : 3016
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then status code is generated which is 201",
+      "time" : {
+        "start" : 1650888761844,
+        "stop" : 1650888761844,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And token is generated which is needed to be parsed",
+      "time" : {
+        "start" : 1650888761844,
+        "stop" : 1650888761844,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "tag",
+    "value" : "streamAPIsignUp"
+  }, {
+    "name" : "feature",
+    "value" : "To test streams APIs"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "appID",
+    "value" : "60"
+  }, {
+    "name" : "platform",
+    "value" : "samsung"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "streamAPIsignUp", "regression", "smoke" ]
+  },
+  "source" : "25d38f1f6ff51424.json",
+  "parameterValues" : [ "60", "samsung" ]
+}

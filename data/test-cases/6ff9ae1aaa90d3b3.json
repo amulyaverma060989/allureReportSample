@@ -1,0 +1,133 @@
+{
+  "uid" : "6ff9ae1aaa90d3b3",
+  "name" : "SignUp to the app to test streams API -- @1.6 ",
+  "fullName" : "To test streams APIs: SignUp to the app to test streams API",
+  "historyId" : "e452c28b789d2369bb2170de0b07dfc5",
+  "time" : {
+    "start" : 1650888761845,
+    "stop" : 1650888764410,
+    "duration" : 2565
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given 60 and SignUp API",
+      "time" : {
+        "start" : 1650888761845,
+        "stop" : 1650888761846,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When SignUp is performed with proper body and roku",
+      "time" : {
+        "start" : 1650888761846,
+        "stop" : 1650888764408,
+        "duration" : 2562
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then status code is generated which is 201",
+      "time" : {
+        "start" : 1650888764409,
+        "stop" : 1650888764409,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And token is generated which is needed to be parsed",
+      "time" : {
+        "start" : 1650888764409,
+        "stop" : 1650888764410,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "tag",
+    "value" : "streamAPIsignUp"
+  }, {
+    "name" : "feature",
+    "value" : "To test streams APIs"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "appID",
+    "value" : "60"
+  }, {
+    "name" : "platform",
+    "value" : "roku"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "streamAPIsignUp", "regression", "smoke" ]
+  },
+  "source" : "6ff9ae1aaa90d3b3.json",
+  "parameterValues" : [ "60", "roku" ]
+}

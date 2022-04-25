@@ -1,0 +1,133 @@
+{
+  "uid" : "aef7b241fbc68e4e",
+  "name" : "SignUp to the app to test streams API -- @1.2 ",
+  "fullName" : "To test streams APIs: SignUp to the app to test streams API",
+  "historyId" : "1e2e9f4728ffee23314a0da8b3944a15",
+  "time" : {
+    "start" : 1650888750327,
+    "stop" : 1650888753657,
+    "duration" : 3330
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given 60 and SignUp API",
+      "time" : {
+        "start" : 1650888750328,
+        "stop" : 1650888750329,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When SignUp is performed with proper body and web",
+      "time" : {
+        "start" : 1650888750329,
+        "stop" : 1650888753655,
+        "duration" : 3326
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then status code is generated which is 201",
+      "time" : {
+        "start" : 1650888753656,
+        "stop" : 1650888753656,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And token is generated which is needed to be parsed",
+      "time" : {
+        "start" : 1650888753657,
+        "stop" : 1650888753657,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "tag",
+    "value" : "streamAPIsignUp"
+  }, {
+    "name" : "feature",
+    "value" : "To test streams APIs"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "appID",
+    "value" : "60"
+  }, {
+    "name" : "platform",
+    "value" : "web"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "streamAPIsignUp", "regression", "smoke" ]
+  },
+  "source" : "aef7b241fbc68e4e.json",
+  "parameterValues" : [ "60", "web" ]
+}
